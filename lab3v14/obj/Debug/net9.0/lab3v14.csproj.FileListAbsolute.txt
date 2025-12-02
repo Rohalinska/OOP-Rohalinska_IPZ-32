@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\bin\Debug\net9.0\lab3v14.exe
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\bin\Debug\net9.0\lab3v14.deps.json
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\bin\Debug\net9.0\lab3v14.runtimeconfig.json
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\bin\Debug\net9.0\lab3v14.dll
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\bin\Debug\net9.0\lab3v14.pdb
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.sourcelink.json
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.dll
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\refint\lab3v14.dll
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.pdb
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\lab3v14.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Документи\GitHub\.vscode\OOP-Rohalinska_IPZ32\lab3v14\obj\Debug\net9.0\ref\lab3v14.dll
